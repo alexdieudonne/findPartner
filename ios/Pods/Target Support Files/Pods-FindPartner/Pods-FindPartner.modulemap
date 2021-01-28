@@ -1,0 +1,6 @@
+module Pods_FindPartner {
+  umbrella header "Pods-FindPartner-umbrella.h"
+
+  export *
+  module * { export * }
+}

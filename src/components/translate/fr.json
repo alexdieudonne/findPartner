@@ -1,0 +1,103 @@
+{
+    "SplasScreen":[
+        {
+            "splashHome":"Deviens le heros de demain !",
+            "SigninText":"Connectez vous !",
+            "LetsGo":"On y va"
+        }
+    ],
+    "SignInScreen":[
+        {
+            "Header":"Bienvenue !",
+            "Username":"Nom d'utilisateur",
+            "Password":"Mot de passe",
+            "validatorSignInUsername":"Le nom d'utilisateur doit etre supérieur a 4 charactères.",
+            "validatorSignInPlaceholderUsername":"Entrez votre nom d'utilisateur.",
+            "validatorSignInPassword":"Le mot de passe doit etre supérieur a 8 charactères.",
+            "validatorSignInPlaceholderPassword":"Entrez votre mot de passe.",
+            "ForgotPassword":"Mot de passe oublié ? ",
+            "Buttons":[
+                {
+                    "SignIn":"Connexion",
+                    "SignUp":"S'enregistrer"
+                }
+            ],
+            "InvalidEntry":"Entrée Invalide !",
+            "messageInvalidEntry":"Le nom d'utilisateur ou le mot de passe ne peut etre vide.",
+            "NotFoundUser":"Utilisateur Invalide !",
+            "messageNotFoundUser":"Le nom d'utilisateur ou le mot de passe est incorrecte.",
+            "Okay":"D'accord"
+        }
+    ],
+    "ForgotPasswordScreen":[
+        {
+            "Header":"Réinitialisation \ndu mot de passe",
+            "Username":"Nom d'utilisateur",
+            "PlaceholderUsername":"Entrez votre nom d'utilisateur.",
+            "Buttons":[
+                {
+                    "Recover":"Réinitialiser",
+                    "goLogin":"Se connecter"
+                }
+            ]
+        }
+    ],
+    "SignUpScreen":[
+        {
+            "Header":"Inscrivez-vous !",
+            "Firstname":"Nom",
+            "FirstnamePlaceholder":"Entrez votre nom",
+            "validatorFirstnamePlaceholder":"Le nom ne peut etre vide",
+            "validatorSignInFirstname":"Le nom doit etre supérieur a 4 charactères.",
+            "Lastname":"Prénom",
+            "LastnamePlaceholder":"Entrez votre prénom",
+            "validatorLastnamePlaceholder":"Le prénom ne peut etre vide",
+            "validatorSignInLastname":"Le prénom doit etre supérieur a 4 charactères.",
+            "errorGender":"Le genre est requis",
+            "Email":"Email",
+            "EmailPlaceholder":"Entrez votre adresse e-mail",
+            "validatorEmailPlaceholder":"Le champ email ne peut etre vide",
+            "validatorSignInEmail":"L'adresse email n'est pas valide.",
+            "Username":"Nom d'utilisateur",
+            "UsernamePlaceholder":"Entrez votre nom d'utilisateur",
+            "validatorUsernamePlaceholder":"Le nom d'utilisateur ne peut etre vide",
+            "validatorSignInUsername":"Le nom d'utilisateur doit etre supérieur a 4 charactères.",
+            "Password":"Mot de passe",
+            "PasswordPlaceholder":"Merci d'entrer un mot de passe",
+            "validatorPasswordPlaceholder":"Le prénom ne peut etre vide",
+            "validatorSignInPassword":"Le mot de passe doit etre supérieur a 5 charactères.",
+            "C_Password":"Confirmez le mot de passe",
+            "C_PasswordPlaceholder":"Entrez a nouveau le mot de passe",
+            "validatorC_PasswordPlaceholder":"Ce champ ne peut etre vide",
+            "validatorSignInC_Password":"Le mot de passe doit etre égal au champ précédent.",
+            "validatorSignInPlaceholderPassword":"Entrez votre mot de passe.",
+            "Buttons":[
+                {
+                    "SignUp":"S'inscrire",
+                    "SignIn":"Se connecter"
+                }
+            ]
+
+        }
+    ],
+    "AgeAndOthersScreen":[
+        {
+            "Header":"Encore une étape",
+            "Description" : "Description de votre profil",
+            "typeAccount": "Je suis un",
+            "whereILive":"J'habite",
+            "Buttons":[{
+                "Next":"Suivant",
+                "Confirm":"Ok"
+            }],
+            "homophobeText":"Je suis homophobe",
+            "nohomophobeText":"Je ne suis pas homophobe",
+            "forbidHomophobe":"Les homophobes n'ont rien a faire ici.",
+            "dateNotModified":"La date n'a pas été modifié",
+            "minus10":"Votre age est trop mineur.",
+            "enterDescription":"entrez une description"
+        }
+    ]
+        
+    
+}

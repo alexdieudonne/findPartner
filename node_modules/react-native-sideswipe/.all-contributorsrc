@@ -1,0 +1,120 @@
+{
+  "projectName": "react-native-sideswipe",
+  "projectOwner": "kkemple",
+  "files": [
+    "README.md"
+  ],
+  "imageSize": 100,
+  "commit": false,
+  "contributors": [
+    {
+      "login": "kkemple",
+      "name": "Kurtis Kemple",
+      "avatar_url": "https://avatars3.githubusercontent.com/u/3629876?v=4",
+      "profile": "https://twitter.com/kurtiskemple",
+      "contributions": [
+        "code",
+        "doc",
+        "blog"
+      ]
+    },
+    {
+      "login": "browniefed",
+      "name": "Jason Brown",
+      "avatar_url": "https://avatars1.githubusercontent.com/u/1714673?v=4",
+      "profile": "http://browniefed.com",
+      "contributions": [
+        "code",
+        "ideas"
+      ]
+    },
+    {
+      "login": "deadcoder0904",
+      "name": "Akshay Kadam",
+      "avatar_url": "https://avatars1.githubusercontent.com/u/16436270?v=4",
+      "profile": "https://twitter.com/deadcoder0904",
+      "contributions": [
+        "doc"
+      ]
+    },
+    {
+      "login": "onstash",
+      "name": "Santosh Venkatraman",
+      "avatar_url": "https://avatars1.githubusercontent.com/u/4272832?v=4",
+      "profile": "https://github.com/onstash",
+      "contributions": [
+        "code"
+      ]
+    },
+    {
+      "login": "narendrashetty",
+      "name": "Narendra N Shetty",
+      "avatar_url": "https://avatars3.githubusercontent.com/u/3153663?v=4",
+      "profile": "https://twitter.com/narendra_shetty",
+      "contributions": [
+        "ideas"
+      ]
+    },
+    {
+      "login": "zachgibson",
+      "name": "Zachary Gibson",
+      "avatar_url": "https://avatars1.githubusercontent.com/u/10658888?v=4",
+      "profile": "https://twitter.com/zacharykeith_",
+      "contributions": [
+        "ideas"
+      ]
+    },
+    {
+      "login": "geirman",
+      "name": "Chris Geirman",
+      "avatar_url": "https://avatars1.githubusercontent.com/u/1640318?v=4",
+      "profile": "http://www.frogquest.com",
+      "contributions": [
+        "bug",
+        "doc",
+        "ideas"
+      ]
+    },
+    {
+      "login": "sipplified",
+      "name": "Dan Sipple",
+      "avatar_url": "https://avatars3.githubusercontent.com/u/3743054?v=4",
+      "profile": "https://github.com/sipplified",
+      "contributions": [
+        "bug",
+        "code"
+      ]
+    },
+    {
+      "login": "cyphire",
+      "name": "Brian B. Canin",
+      "avatar_url": "https://avatars3.githubusercontent.com/u/337798?v=4",
+      "profile": "http://www.briancanin.com",
+      "contributions": [
+        "code",
+        "review"
+      ]
+    },
+    {
+      "login": "msevestre",
+      "name": "Michael Sevestre",
+      "avatar_url": "https://avatars2.githubusercontent.com/u/1041237?v=4",
+      "profile": "http://www.design2code.ca",
+      "contributions": [
+        "bug",
+        "ideas",
+        "test"
+      ]
+    },
+    {
+      "login": "jadidian",
+      "name": "Soheil Jadidian",
+      "avatar_url": "https://avatars2.githubusercontent.com/u/650099?v=4",
+      "profile": "https://github.com/jadidian",
+      "contributions": [
+        "bug",
+        "ideas"
+      ]
+    }
+  ]
+}

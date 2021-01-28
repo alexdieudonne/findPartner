@@ -1,0 +1,189 @@
+1<?xml version="1.0" encoding="utf-8"?>
+2<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+3    package="com.findpartner"
+4    android:versionCode="1"
+5    android:versionName="1.0" >
+6
+7    <uses-sdk
+8        android:minSdkVersion="16"
+9        android:targetSdkVersion="29" />
+10
+11    <uses-permission android:name="android.permission.SYSTEM_ALERT_WINDOW" />
+11-->/Users/alexdieudonne/Documents/projet_perso/new/react/FindPartner/android/app/src/debug/AndroidManifest.xml:5:5-77
+11-->/Users/alexdieudonne/Documents/projet_perso/new/react/FindPartner/android/app/src/debug/AndroidManifest.xml:5:22-75
+12    <uses-permission android:name="android.permission.INTERNET" />
+12-->/Users/alexdieudonne/Documents/projet_perso/new/react/FindPartner/android/app/src/main/AndroidManifest.xml:4:5-67
+12-->/Users/alexdieudonne/Documents/projet_perso/new/react/FindPartner/android/app/src/main/AndroidManifest.xml:4:22-64
+13    <uses-permission android:name="android.permission.ACCESS_FINE_LOCATION" />
+13-->/Users/alexdieudonne/Documents/projet_perso/new/react/FindPartner/android/app/src/main/AndroidManifest.xml:5:5-79
+13-->/Users/alexdieudonne/Documents/projet_perso/new/react/FindPartner/android/app/src/main/AndroidManifest.xml:5:22-76
+14    <uses-permission android:name="android.permission.ACCESS_WIFI_STATE" />
+14-->/Users/alexdieudonne/Documents/projet_perso/new/react/FindPartner/android/app/src/main/AndroidManifest.xml:6:5-76
+14-->/Users/alexdieudonne/Documents/projet_perso/new/react/FindPartner/android/app/src/main/AndroidManifest.xml:6:22-73
+15    <uses-permission android:name="android.permission.CAMERA" />
+15-->/Users/alexdieudonne/Documents/projet_perso/new/react/FindPartner/android/app/src/main/AndroidManifest.xml:7:5-64
+15-->/Users/alexdieudonne/Documents/projet_perso/new/react/FindPartner/android/app/src/main/AndroidManifest.xml:7:22-62
+16
+17    <uses-feature
+17-->/Users/alexdieudonne/Documents/projet_perso/new/react/FindPartner/android/app/src/main/AndroidManifest.xml:8:5-85
+18        android:name="android.hardware.camera"
+18-->/Users/alexdieudonne/Documents/projet_perso/new/react/FindPartner/android/app/src/main/AndroidManifest.xml:8:19-57
+19        android:required="false" />
+19-->/Users/alexdieudonne/Documents/projet_perso/new/react/FindPartner/android/app/src/main/AndroidManifest.xml:8:58-82
+20    <uses-feature
+20-->/Users/alexdieudonne/Documents/projet_perso/new/react/FindPartner/android/app/src/main/AndroidManifest.xml:9:5-91
+21        android:name="android.hardware.camera.front"
+21-->/Users/alexdieudonne/Documents/projet_perso/new/react/FindPartner/android/app/src/main/AndroidManifest.xml:9:19-63
+22        android:required="false" />
+22-->/Users/alexdieudonne/Documents/projet_perso/new/react/FindPartner/android/app/src/main/AndroidManifest.xml:9:64-88
+23
+24    <uses-permission android:name="android.permission.READ_EXTERNAL_STORAGE" />
+24-->/Users/alexdieudonne/Documents/projet_perso/new/react/FindPartner/android/app/src/main/AndroidManifest.xml:10:5-79
+24-->/Users/alexdieudonne/Documents/projet_perso/new/react/FindPartner/android/app/src/main/AndroidManifest.xml:10:22-77
+25    <uses-permission android:name="android.permission.WRITE_EXTERNAL_STORAGE" /> <!-- Include required permissions for Google Maps API to run. -->
+25-->/Users/alexdieudonne/Documents/projet_perso/new/react/FindPartner/android/app/src/main/AndroidManifest.xml:11:5-80
+25-->/Users/alexdieudonne/Documents/projet_perso/new/react/FindPartner/android/app/src/main/AndroidManifest.xml:11:22-78
+26    <uses-permission android:name="android.permission.ACCESS_NETWORK_STATE" />
+26-->[com.google.android.gms:play-services-maps:16.1.0] /Users/alexdieudonne/.gradle/caches/transforms-2/files-2.1/8be73bbf127ea6f0720b7bf1f1a63731/jetified-play-services-maps-16.1.0/AndroidManifest.xml:23:5-79
+26-->[com.google.android.gms:play-services-maps:16.1.0] /Users/alexdieudonne/.gradle/caches/transforms-2/files-2.1/8be73bbf127ea6f0720b7bf1f1a63731/jetified-play-services-maps-16.1.0/AndroidManifest.xml:23:22-76
+27
+28    <uses-feature
+28-->[com.google.android.gms:play-services-maps:16.1.0] /Users/alexdieudonne/.gradle/caches/transforms-2/files-2.1/8be73bbf127ea6f0720b7bf1f1a63731/jetified-play-services-maps-16.1.0/AndroidManifest.xml:26:5-28:35
+29        android:glEsVersion="0x00020000"
+29-->[com.google.android.gms:play-services-maps:16.1.0] /Users/alexdieudonne/.gradle/caches/transforms-2/files-2.1/8be73bbf127ea6f0720b7bf1f1a63731/jetified-play-services-maps-16.1.0/AndroidManifest.xml:27:9-41
+30        android:required="true" />
+30-->[com.google.android.gms:play-services-maps:16.1.0] /Users/alexdieudonne/.gradle/caches/transforms-2/files-2.1/8be73bbf127ea6f0720b7bf1f1a63731/jetified-play-services-maps-16.1.0/AndroidManifest.xml:28:9-32
+31
+32    <application
+32-->/Users/alexdieudonne/Documents/projet_perso/new/react/FindPartner/android/app/src/main/AndroidManifest.xml:14:5-34:19
+33        android:name="com.findpartner.MainApplication"
+33-->/Users/alexdieudonne/Documents/projet_perso/new/react/FindPartner/android/app/src/main/AndroidManifest.xml:15:7-38
+34        android:allowBackup="false"
+34-->/Users/alexdieudonne/Documents/projet_perso/new/react/FindPartner/android/app/src/main/AndroidManifest.xml:19:7-34
+35        android:appComponentFactory="androidx.core.app.CoreComponentFactory"
+35-->[androidx.core:core:1.1.0] /Users/alexdieudonne/.gradle/caches/transforms-2/files-2.1/639e914bfc1efa21e36199d3ff2c5eef/core-1.1.0/AndroidManifest.xml:24:18-86
+36        android:debuggable="true"
+37        android:icon="@mipmap/ic_launcher"
+37-->/Users/alexdieudonne/Documents/projet_perso/new/react/FindPartner/android/app/src/main/AndroidManifest.xml:17:7-41
+38        android:label="@string/app_name"
+38-->/Users/alexdieudonne/Documents/projet_perso/new/react/FindPartner/android/app/src/main/AndroidManifest.xml:16:7-39
+39        android:roundIcon="@mipmap/ic_launcher_round"
+39-->/Users/alexdieudonne/Documents/projet_perso/new/react/FindPartner/android/app/src/main/AndroidManifest.xml:18:7-52
+40        android:supportsRtl="true"
+40-->[:react-native-google-places] /Users/alexdieudonne/Documents/projet_perso/new/react/FindPartner/node_modules/react-native-google-places/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:11:9-35
+41        android:testOnly="true"
+42        android:theme="@style/AppTheme"
+42-->/Users/alexdieudonne/Documents/projet_perso/new/react/FindPartner/android/app/src/main/AndroidManifest.xml:20:7-38
+43        android:usesCleartextTraffic="true" >
+43-->/Users/alexdieudonne/Documents/projet_perso/new/react/FindPartner/android/app/src/debug/AndroidManifest.xml:7:18-53
+44        <activity
+44-->/Users/alexdieudonne/Documents/projet_perso/new/react/FindPartner/android/app/src/main/AndroidManifest.xml:21:7-32:18
+45            android:name="com.findpartner.MainActivity"
+45-->/Users/alexdieudonne/Documents/projet_perso/new/react/FindPartner/android/app/src/main/AndroidManifest.xml:22:9-37
+46            android:configChanges="keyboard|keyboardHidden|orientation|screenSize|uiMode"
+46-->/Users/alexdieudonne/Documents/projet_perso/new/react/FindPartner/android/app/src/main/AndroidManifest.xml:25:9-86
+47            android:label="@string/app_name"
+47-->/Users/alexdieudonne/Documents/projet_perso/new/react/FindPartner/android/app/src/main/AndroidManifest.xml:23:9-41
+48            android:launchMode="singleTask"
+48-->/Users/alexdieudonne/Documents/projet_perso/new/react/FindPartner/android/app/src/main/AndroidManifest.xml:26:9-40
+49            android:screenOrientation="portrait"
+49-->/Users/alexdieudonne/Documents/projet_perso/new/react/FindPartner/android/app/src/main/AndroidManifest.xml:24:9-45
+50            android:windowSoftInputMode="adjustPan" >
+50-->/Users/alexdieudonne/Documents/projet_perso/new/react/FindPartner/android/app/src/main/AndroidManifest.xml:27:9-48
+51            <intent-filter>
+51-->/Users/alexdieudonne/Documents/projet_perso/new/react/FindPartner/android/app/src/main/AndroidManifest.xml:28:9-31:25
+52                <action android:name="android.intent.action.MAIN" />
+52-->/Users/alexdieudonne/Documents/projet_perso/new/react/FindPartner/android/app/src/main/AndroidManifest.xml:29:13-65
+52-->/Users/alexdieudonne/Documents/projet_perso/new/react/FindPartner/android/app/src/main/AndroidManifest.xml:29:21-62
+53
+54                <category android:name="android.intent.category.LAUNCHER" />
+54-->/Users/alexdieudonne/Documents/projet_perso/new/react/FindPartner/android/app/src/main/AndroidManifest.xml:30:13-73
+54-->/Users/alexdieudonne/Documents/projet_perso/new/react/FindPartner/android/app/src/main/AndroidManifest.xml:30:23-70
+55            </intent-filter>
+56        </activity>
+57        <activity android:name="com.facebook.react.devsupport.DevSettingsActivity" />
+57-->/Users/alexdieudonne/Documents/projet_perso/new/react/FindPartner/android/app/src/main/AndroidManifest.xml:33:7-84
+57-->/Users/alexdieudonne/Documents/projet_perso/new/react/FindPartner/android/app/src/main/AndroidManifest.xml:33:17-81
+58
+59        <provider
+59-->[:react-native-image-crop-picker] /Users/alexdieudonne/Documents/projet_perso/new/react/FindPartner/node_modules/react-native-image-crop-picker/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:13:9-21:20
+60            android:name="androidx.core.content.FileProvider"
+60-->[:react-native-image-crop-picker] /Users/alexdieudonne/Documents/projet_perso/new/react/FindPartner/node_modules/react-native-image-crop-picker/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:14:13-62
+61            android:authorities="com.findpartner.provider"
+61-->[:react-native-image-crop-picker] /Users/alexdieudonne/Documents/projet_perso/new/react/FindPartner/node_modules/react-native-image-crop-picker/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:15:13-60
+62            android:exported="false"
+62-->[:react-native-image-crop-picker] /Users/alexdieudonne/Documents/projet_perso/new/react/FindPartner/node_modules/react-native-image-crop-picker/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:16:13-37
+63            android:grantUriPermissions="true" >
+63-->[:react-native-image-crop-picker] /Users/alexdieudonne/Documents/projet_perso/new/react/FindPartner/node_modules/react-native-image-crop-picker/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:17:13-47
+64            <meta-data
+64-->[:react-native-image-crop-picker] /Users/alexdieudonne/Documents/projet_perso/new/react/FindPartner/node_modules/react-native-image-crop-picker/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:18:13-20:58
+65                android:name="android.support.FILE_PROVIDER_PATHS"
+65-->[:react-native-image-crop-picker] /Users/alexdieudonne/Documents/projet_perso/new/react/FindPartner/node_modules/react-native-image-crop-picker/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:19:17-67
+66                android:resource="@xml/provider_paths" />
+66-->[:react-native-image-crop-picker] /Users/alexdieudonne/Documents/projet_perso/new/react/FindPartner/node_modules/react-native-image-crop-picker/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:20:17-55
+67        </provider>
+68
+69        <activity
+69-->[:react-native-image-crop-picker] /Users/alexdieudonne/Documents/projet_perso/new/react/FindPartner/node_modules/react-native-image-crop-picker/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:23:9-25:72
+70            android:name="com.yalantis.ucrop.UCropActivity"
+70-->[:react-native-image-crop-picker] /Users/alexdieudonne/Documents/projet_perso/new/react/FindPartner/node_modules/react-native-image-crop-picker/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:24:13-60
+71            android:theme="@style/Theme.AppCompat.Light.NoActionBar" />
+71-->[:react-native-image-crop-picker] /Users/alexdieudonne/Documents/projet_perso/new/react/FindPartner/node_modules/react-native-image-crop-picker/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:25:13-69
+72
+73        <provider
+73-->[:react-native-image-picker] /Users/alexdieudonne/Documents/projet_perso/new/react/FindPartner/node_modules/react-native-image-picker/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:10:9-18:20
+74            android:name="com.imagepicker.FileProvider"
+74-->[:react-native-image-picker] /Users/alexdieudonne/Documents/projet_perso/new/react/FindPartner/node_modules/react-native-image-picker/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:11:13-56
+75            android:authorities="com.findpartner.provider"
+75-->[:react-native-image-picker] /Users/alexdieudonne/Documents/projet_perso/new/react/FindPartner/node_modules/react-native-image-picker/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:12:13-60
+76            android:exported="false"
+76-->[:react-native-image-picker] /Users/alexdieudonne/Documents/projet_perso/new/react/FindPartner/node_modules/react-native-image-picker/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:13:13-37
+77            android:grantUriPermissions="true" >
+77-->[:react-native-image-picker] /Users/alexdieudonne/Documents/projet_perso/new/react/FindPartner/node_modules/react-native-image-picker/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:14:13-47
+78            <meta-data
+78-->[:react-native-image-crop-picker] /Users/alexdieudonne/Documents/projet_perso/new/react/FindPartner/node_modules/react-native-image-crop-picker/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:18:13-20:58
+79                android:name="android.support.FILE_PROVIDER_PATHS"
+79-->[:react-native-image-crop-picker] /Users/alexdieudonne/Documents/projet_perso/new/react/FindPartner/node_modules/react-native-image-crop-picker/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:19:17-67
+80                android:resource="@xml/provider_paths" />
+80-->[:react-native-image-crop-picker] /Users/alexdieudonne/Documents/projet_perso/new/react/FindPartner/node_modules/react-native-image-crop-picker/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:20:17-55
+81        </provider> <!-- Autocomplete -->
+82        <activity
+82-->[com.google.android.libraries.places:places:1.1.0] /Users/alexdieudonne/.gradle/caches/transforms-2/files-2.1/9cfd65001aaf975651613985fe60d46f/jetified-places-1.1.0/AndroidManifest.xml:16:9-23:20
+83            android:name="com.google.android.libraries.places.widget.AutocompleteActivity"
+83-->[com.google.android.libraries.places:places:1.1.0] /Users/alexdieudonne/.gradle/caches/transforms-2/files-2.1/9cfd65001aaf975651613985fe60d46f/jetified-places-1.1.0/AndroidManifest.xml:17:13-91
+84            android:exported="false"
+84-->[com.google.android.libraries.places:places:1.1.0] /Users/alexdieudonne/.gradle/caches/transforms-2/files-2.1/9cfd65001aaf975651613985fe60d46f/jetified-places-1.1.0/AndroidManifest.xml:18:13-37
+85            android:hardwareAccelerated="true"
+85-->[com.google.android.libraries.places:places:1.1.0] /Users/alexdieudonne/.gradle/caches/transforms-2/files-2.1/9cfd65001aaf975651613985fe60d46f/jetified-places-1.1.0/AndroidManifest.xml:19:13-47
+86            android:label="@string/places_autocomplete_label"
+86-->[com.google.android.libraries.places:places:1.1.0] /Users/alexdieudonne/.gradle/caches/transforms-2/files-2.1/9cfd65001aaf975651613985fe60d46f/jetified-places-1.1.0/AndroidManifest.xml:20:13-62
+87            android:theme="@style/PlacesAutocompleteThemeOverlay"
+87-->[com.google.android.libraries.places:places:1.1.0] /Users/alexdieudonne/.gradle/caches/transforms-2/files-2.1/9cfd65001aaf975651613985fe60d46f/jetified-places-1.1.0/AndroidManifest.xml:21:13-66
+88            android:windowSoftInputMode="stateAlwaysVisible|adjustPan" >
+88-->[com.google.android.libraries.places:places:1.1.0] /Users/alexdieudonne/.gradle/caches/transforms-2/files-2.1/9cfd65001aaf975651613985fe60d46f/jetified-places-1.1.0/AndroidManifest.xml:22:13-71
+89        </activity> <!-- Needs to be explicitly declared on P+ -->
+90        <uses-library
+90-->[com.google.android.gms:play-services-maps:16.1.0] /Users/alexdieudonne/.gradle/caches/transforms-2/files-2.1/8be73bbf127ea6f0720b7bf1f1a63731/jetified-play-services-maps-16.1.0/AndroidManifest.xml:33:9-35:40
+91            android:name="org.apache.http.legacy"
+91-->[com.google.android.gms:play-services-maps:16.1.0] /Users/alexdieudonne/.gradle/caches/transforms-2/files-2.1/8be73bbf127ea6f0720b7bf1f1a63731/jetified-play-services-maps-16.1.0/AndroidManifest.xml:34:13-50
+92            android:required="false" />
+92-->[com.google.android.gms:play-services-maps:16.1.0] /Users/alexdieudonne/.gradle/caches/transforms-2/files-2.1/8be73bbf127ea6f0720b7bf1f1a63731/jetified-play-services-maps-16.1.0/AndroidManifest.xml:35:13-37
+93
+94        <activity
+94-->[com.google.android.gms:play-services-base:16.1.0] /Users/alexdieudonne/.gradle/caches/transforms-2/files-2.1/550cb727ddb187166d98650717490871/jetified-play-services-base-16.1.0/AndroidManifest.xml:23:9-26:75
+95            android:name="com.google.android.gms.common.api.GoogleApiActivity"
+95-->[com.google.android.gms:play-services-base:16.1.0] /Users/alexdieudonne/.gradle/caches/transforms-2/files-2.1/550cb727ddb187166d98650717490871/jetified-play-services-base-16.1.0/AndroidManifest.xml:24:13-79
+96            android:exported="false"
+96-->[com.google.android.gms:play-services-base:16.1.0] /Users/alexdieudonne/.gradle/caches/transforms-2/files-2.1/550cb727ddb187166d98650717490871/jetified-play-services-base-16.1.0/AndroidManifest.xml:25:13-37
+97            android:theme="@android:style/Theme.Translucent.NoTitleBar" />
+97-->[com.google.android.gms:play-services-base:16.1.0] /Users/alexdieudonne/.gradle/caches/transforms-2/files-2.1/550cb727ddb187166d98650717490871/jetified-play-services-base-16.1.0/AndroidManifest.xml:26:13-72
+98
+99        <meta-data
+99-->[com.google.android.gms:play-services-basement:16.2.0] /Users/alexdieudonne/.gradle/caches/transforms-2/files-2.1/71a0e068885c87ca5b7283a52903579b/jetified-play-services-basement-16.2.0/AndroidManifest.xml:23:9-25:69
+100            android:name="com.google.android.gms.version"
+100-->[com.google.android.gms:play-services-basement:16.2.0] /Users/alexdieudonne/.gradle/caches/transforms-2/files-2.1/71a0e068885c87ca5b7283a52903579b/jetified-play-services-basement-16.2.0/AndroidManifest.xml:24:13-58
+101            android:value="@integer/google_play_services_version" />
+101-->[com.google.android.gms:play-services-basement:16.2.0] /Users/alexdieudonne/.gradle/caches/transforms-2/files-2.1/71a0e068885c87ca5b7283a52903579b/jetified-play-services-basement-16.2.0/AndroidManifest.xml:25:13-66
+102    </application>
+103
+104</manifest>

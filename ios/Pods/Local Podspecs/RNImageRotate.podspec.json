@@ -1,0 +1,25 @@
+{
+  "name": "RNImageRotate",
+  "version": "2.1.0",
+  "summary": "Rotate images from your react-native JavaScript code",
+  "description": "Rotate images from your react-native JavaScript code",
+  "homepage": "https://github.com/dgladkov/react-native-image-rotate",
+  "license": "MIT",
+  "authors": {
+    "Dmitry Gladkov": "dmitry.gladkov@gmail.com"
+  },
+  "platforms": {
+    "ios": "7.0"
+  },
+  "source": {
+    "git": "https://github.com/dgladkov/react-native-image-rotate.git",
+    "tag": "2.1.0"
+  },
+  "source_files": "RNImageRotate/*.{h,m}",
+  "preserve_paths": "**/*.js",
+  "dependencies": {
+    "React": [
+
+    ]
+  }
+}

@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/-387173917/@react-native-community_art.iml" filepath="$PROJECT_DIR$/.idea/modules/-387173917/@react-native-community_art.iml" group="FindPartner/@react-native-community_art" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/-842079538/@react-native-community_picker.iml" filepath="$PROJECT_DIR$/.idea/modules/-842079538/@react-native-community_picker.iml" group="FindPartner/@react-native-community_picker" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/FindPartner.iml" filepath="$PROJECT_DIR$/.idea/modules/FindPartner.iml" group="FindPartner" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/app.iml" filepath="$PROJECT_DIR$/.idea/modules/app/app.iml" group="FindPartner/app" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/-842079538/react-native-community-picker.iml" filepath="$PROJECT_DIR$/.idea/modules/-842079538/react-native-community-picker.iml" group="FindPartner/react-native-community-picker" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/-387173917/react-native-community_art.iml" filepath="$PROJECT_DIR$/.idea/modules/-387173917/react-native-community_art.iml" group="FindPartner/react-native-community_art" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/1539802282/react-native-community_async-storage.iml" filepath="$PROJECT_DIR$/.idea/modules/1539802282/react-native-community_async-storage.iml" group="FindPartner/react-native-community_async-storage" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/2079934303/react-native-community_image-editor.iml" filepath="$PROJECT_DIR$/.idea/modules/2079934303/react-native-community_image-editor.iml" group="FindPartner/react-native-community_image-editor" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/-106822105/react-native-community_masked-view.iml" filepath="$PROJECT_DIR$/.idea/modules/-106822105/react-native-community_masked-view.iml" group="FindPartner/react-native-community_masked-view" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/-842079538/react-native-community_picker.iml" filepath="$PROJECT_DIR$/.idea/modules/-842079538/react-native-community_picker.iml" group="FindPartner/react-native-community_picker" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/-289321840/react-native-gesture-handler.iml" filepath="$PROJECT_DIR$/.idea/modules/-289321840/react-native-gesture-handler.iml" group="FindPartner/react-native-gesture-handler" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/-1749714774/react-native-google-places.iml" filepath="$PROJECT_DIR$/.idea/modules/-1749714774/react-native-google-places.iml" group="FindPartner/react-native-google-places" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/-1244989117/react-native-image-crop-picker.iml" filepath="$PROJECT_DIR$/.idea/modules/-1244989117/react-native-image-crop-picker.iml" group="FindPartner/react-native-image-crop-picker" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/1446180982/react-native-image-picker.iml" filepath="$PROJECT_DIR$/.idea/modules/1446180982/react-native-image-picker.iml" group="FindPartner/react-native-image-picker" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/733065283/react-native-image-rotate.iml" filepath="$PROJECT_DIR$/.idea/modules/733065283/react-native-image-rotate.iml" group="FindPartner/react-native-image-rotate" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/330629282/react-native-linear-gradient.iml" filepath="$PROJECT_DIR$/.idea/modules/330629282/react-native-linear-gradient.iml" group="FindPartner/react-native-linear-gradient" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/-97929332/react-native-reanimated.iml" filepath="$PROJECT_DIR$/.idea/modules/-97929332/react-native-reanimated.iml" group="FindPartner/react-native-reanimated" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/1785954553/react-native-safe-area-context.iml" filepath="$PROJECT_DIR$/.idea/modules/1785954553/react-native-safe-area-context.iml" group="FindPartner/react-native-safe-area-context" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/-1055648687/react-native-screens.iml" filepath="$PROJECT_DIR$/.idea/modules/-1055648687/react-native-screens.iml" group="FindPartner/react-native-screens" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/1108583242/react-native-shared-element.iml" filepath="$PROJECT_DIR$/.idea/modules/1108583242/react-native-shared-element.iml" group="FindPartner/react-native-shared-element" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/-219079378/react-native-svg.iml" filepath="$PROJECT_DIR$/.idea/modules/-219079378/react-native-svg.iml" group="FindPartner/react-native-svg" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/-1223518906/react-native-vector-icons.iml" filepath="$PROJECT_DIR$/.idea/modules/-1223518906/react-native-vector-icons.iml" group="FindPartner/react-native-vector-icons" />
+    </modules>
+  </component>
+</project>

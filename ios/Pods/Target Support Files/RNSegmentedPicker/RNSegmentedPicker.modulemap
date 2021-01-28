@@ -1,0 +1,6 @@
+module RNSegmentedPicker {
+  umbrella header "RNSegmentedPicker-umbrella.h"
+
+  export *
+  module * { export * }
+}

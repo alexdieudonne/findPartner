@@ -1,0 +1,4 @@
+# Referenced at /Users/alexdieudonne/Documents/projet_perso/new/react/FindPartner/android/app/build/intermediates/merged_manifests/debug/AndroidManifest.xml:32
+-keep class androidx.core.app.CoreComponentFactory { <init>(); }
+# Referenced at /Users/alexdieudonne/Documents/projet_perso/new/react/FindPartner/android/app/build/intermediates/merged_manifests/debug/AndroidManifest.xml:32
+-keep class com.findpartner.MainApplication { <init>(); }

@@ -1,0 +1,1 @@
+../../../../../node_modules/react-native-image-rotate/RNImageRotate/ImageRotateModule.h

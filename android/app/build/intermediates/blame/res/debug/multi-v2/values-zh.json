@@ -1,0 +1,36 @@
+{
+    "logs": [
+        {
+            "outputFile": "/Users/alexdieudonne/Documents/projet_perso/new/react/FindPartner/android/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-zh/values-zh.xml",
+            "map": [
+                {
+                    "source": "/Users/alexdieudonne/.gradle/caches/transforms-2/files-2.1/74446924c7bdc5814df802b603b34a4f/jetified-bottomsheet-1.3.1/res/values-zh/values-zh.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "38",
+                        "endOffsets": "89"
+                    }
+                },
+                {
+                    "source": "/Users/alexdieudonne/.gradle/caches/transforms-2/files-2.1/3f3ca3c3b7115bfe09d8c123b4f22b4c/ucrop-2.2.5-native/res/values-zh/values-zh.xml",
+                    "from": {
+                        "startLines": "2,3,4",
+                        "startColumns": "4,4,4",
+                        "startOffsets": "55,109,163",
+                        "endColumns": "53,53,46",
+                        "endOffsets": "104,158,205"
+                    },
+                    "to": {
+                        "startLines": "3,4,5",
+                        "startColumns": "4,4,4",
+                        "startOffsets": "94,148,202",
+                        "endColumns": "53,53,46",
+                        "endOffsets": "143,197,244"
+                    }
+                }
+            ]
+        }
+    ]
+}

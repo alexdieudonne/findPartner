@@ -1,0 +1,6 @@
+module Pods_FindPartner_FindPartnerTests {
+  umbrella header "Pods-FindPartner-FindPartnerTests-umbrella.h"
+
+  export *
+  module * { export * }
+}

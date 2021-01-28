@@ -1,0 +1,25 @@
+{
+  "name": "SRSPickerView",
+  "version": "1.0.0",
+  "summary": "SRSPickerView",
+  "description": "SRSPickerView",
+  "homepage": "https://github.com/surajitsarkar19/react-native-picker-view.git",
+  "license": "MIT",
+  "authors": {
+    "author": "author@domain.cn"
+  },
+  "platforms": {
+    "ios": "7.0"
+  },
+  "source": {
+    "git": "https://github.com/author/SRSPickerView.git",
+    "tag": "master"
+  },
+  "source_files": "SRSPickerView/**/*.{h,m}",
+  "requires_arc": true,
+  "dependencies": {
+    "React": [
+
+    ]
+  }
+}
